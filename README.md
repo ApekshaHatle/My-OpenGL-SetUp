@@ -1,4 +1,4 @@
-#freeglut libraries : 
+# freeglut libraries : 
           https://www.transmissionzero.co.uk/software/freeglut-devel/
-#glad libraries : 
+# glad libraries : 
           https://glad.dav1d.de/
