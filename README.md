@@ -3,11 +3,11 @@
 # glad libraries : 
           https://glad.dav1d.de/
 # For running in terminal :
-          first go in the bin folder so :
+## first go in the bin folder so :
           cd bin
 
-          then for compiling :
+## then for compiling :
           mingw32-make
 
-          then it creates a main.exe file so run it using :
+## then it creates a main.exe file so run it using :
           .\main.exe
