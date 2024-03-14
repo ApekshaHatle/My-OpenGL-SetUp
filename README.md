@@ -1,5 +1,6 @@
-Note : This Setup only works for displaying if you put in a switch case or ask any type of input from user it won't work.
-Also make sure minGW libraries are added to your path 
+Note : 
+- This Setup only works for displaying if you put in a switch case or ask any type of input from user it won't work.
+* Also make sure minGW libraries are added to your path 
 
 # freeglut libraries : 
           https://www.transmissionzero.co.uk/software/freeglut-devel/
