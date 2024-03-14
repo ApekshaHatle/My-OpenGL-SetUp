@@ -1,3 +1,5 @@
+Note : This Setup only works for displaying if you put in a switch case or ask any type of input from user it won't work.
+
 # freeglut libraries : 
           https://www.transmissionzero.co.uk/software/freeglut-devel/
 # glad libraries : 
