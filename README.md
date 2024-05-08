@@ -12,7 +12,5 @@ Note :
 ### then it creates a main.exe file so run it using :
           .\main.exe
 
-## freeglut libraries : 
-          https://www.transmissionzero.co.uk/software/freeglut-devel/
-## glad libraries : 
-          https://glad.dav1d.de/
+## freeglut libraries :  https://www.transmissionzero.co.uk/software/freeglut-devel/
+## glad libraries :  https://glad.dav1d.de/
